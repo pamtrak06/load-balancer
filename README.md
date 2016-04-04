@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DOCKER LOAD BALANCER PATTERN
 
 ## CONCEPTION
@@ -100,4 +99,3 @@ haproxy: http://192.168.99.100:8884/
 =======
 # load-balancer
 load balancer test
->>>>>>> 5b229e0b7ff7c19b380a480ed837706849ce5776
