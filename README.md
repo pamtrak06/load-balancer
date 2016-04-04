@@ -96,6 +96,6 @@ haproxy: http://192.168.99.100:8884/
 - stop it : docker stop lb1apache_1 or lb1apache_2
 - show exposed apache in hap and other load balancer
 - start it : docker stop lb1apache_1 or lb1apache_2
-=======
+
 # load-balancer
 load balancer test
