@@ -86,12 +86,14 @@ https://www.digitalocean.com/community/tutorials/how-to-create-a-high-availabili
 ./run.sh
 
 ## Tests
+```
 - web1:    http://192.168.99.100:8881/
 - web2:    http://192.168.99.100:8882/
 - lb1:     http://192.168.99.100:6884/
 - lb2:     http://192.168.99.100:7884/
 - haproxy: http://192.168.99.100:8884/
-
+```
+Steps:
 - show exposed apache in hap
 - stop it : docker stop lb1apache_1 or lb1apache_2
 - show exposed apache in hap and other load balancer
