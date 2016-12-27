@@ -40,7 +40,7 @@ https://www.digitalocean.com/community/tutorials/how-to-create-a-high-availabili
 
 1. Requirements : 
     - docker installed
-    - edocker installed (https://github.com/pamtrak06/edocker.git)
+    - edjanger installed (https://github.com/pamtrak06/edjanger.git)
 2. Download source : git clone load-balancer
 ```
 .
